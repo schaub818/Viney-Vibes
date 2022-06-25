@@ -1,0 +1,4150 @@
+fileFormatVersion: 2
+guid: 3e88dbaf08934bb44a801b1d8b655c91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5861606959621530134
+    second: VV Tutorial Vine Game Over-Sheet 1_0
+  - first:
+      213: -3045462779926411405
+    second: VV Tutorial Vine Game Over-Sheet 1_1
+  - first:
+      213: -7060656157353543732
+    second: VV Tutorial Vine Game Over-Sheet 1_2
+  - first:
+      213: -6095171015053331943
+    second: VV Tutorial Vine Game Over-Sheet 1_3
+  - first:
+      213: 5343164505012218986
+    second: VV Tutorial Vine Game Over-Sheet 1_4
+  - first:
+      213: -5164897512342258611
+    second: VV Tutorial Vine Game Over-Sheet 1_5
+  - first:
+      213: -1967936874090507544
+    second: VV Tutorial Vine Game Over-Sheet 1_6
+  - first:
+      213: 1297172725794859901
+    second: VV Tutorial Vine Game Over-Sheet 1_7
+  - first:
+      213: -6148634152315917829
+    second: VV Tutorial Vine Game Over-Sheet 1_8
+  - first:
+      213: 1375523056691823554
+    second: VV Tutorial Vine Game Over-Sheet 1_9
+  - first:
+      213: 7214896415828305142
+    second: VV Tutorial Vine Game Over-Sheet 1_10
+  - first:
+      213: -4949275175384668110
+    second: VV Tutorial Vine Game Over-Sheet 1_11
+  - first:
+      213: 4718649798103282644
+    second: VV Tutorial Vine Game Over-Sheet 1_12
+  - first:
+      213: 191029396013969068
+    second: VV Tutorial Vine Game Over-Sheet 1_13
+  - first:
+      213: 5599200305343660728
+    second: VV Tutorial Vine Game Over-Sheet 1_14
+  - first:
+      213: 5028323330945154453
+    second: VV Tutorial Vine Game Over-Sheet 1_15
+  - first:
+      213: -4648148256795632942
+    second: VV Tutorial Vine Game Over-Sheet 1_16
+  - first:
+      213: 6313492305469037231
+    second: VV Tutorial Vine Game Over-Sheet 1_17
+  - first:
+      213: -8486286184366486933
+    second: VV Tutorial Vine Game Over-Sheet 1_18
+  - first:
+      213: 5759272279155050922
+    second: VV Tutorial Vine Game Over-Sheet 1_19
+  - first:
+      213: -1667434018362703034
+    second: VV Tutorial Vine Game Over-Sheet 1_20
+  - first:
+      213: 352569373097818871
+    second: VV Tutorial Vine Game Over-Sheet 1_21
+  - first:
+      213: -5679960217565925018
+    second: VV Tutorial Vine Game Over-Sheet 1_22
+  - first:
+      213: 2056791758869059247
+    second: VV Tutorial Vine Game Over-Sheet 1_23
+  - first:
+      213: 3360286778798154733
+    second: VV Tutorial Vine Game Over-Sheet 1_24
+  - first:
+      213: -2034432276317873346
+    second: VV Tutorial Vine Game Over-Sheet 1_25
+  - first:
+      213: 7356651740159128224
+    second: VV Tutorial Vine Game Over-Sheet 1_26
+  - first:
+      213: 346805144819055337
+    second: VV Tutorial Vine Game Over-Sheet 1_27
+  - first:
+      213: 1620723014585798143
+    second: VV Tutorial Vine Game Over-Sheet 1_28
+  - first:
+      213: 6326064297813323370
+    second: VV Tutorial Vine Game Over-Sheet 1_29
+  - first:
+      213: -2185491329655985836
+    second: VV Tutorial Vine Game Over-Sheet 1_30
+  - first:
+      213: 3034189469952259445
+    second: VV Tutorial Vine Game Over-Sheet 1_31
+  - first:
+      213: -1117210459693944409
+    second: VV Tutorial Vine Game Over-Sheet 1_32
+  - first:
+      213: 2230333344581484675
+    second: VV Tutorial Vine Game Over-Sheet 1_33
+  - first:
+      213: -7129065066316280688
+    second: VV Tutorial Vine Game Over-Sheet 1_34
+  - first:
+      213: -8059264706831312181
+    second: VV Tutorial Vine Game Over-Sheet 1_35
+  - first:
+      213: 1324532886485884525
+    second: VV Tutorial Vine Game Over-Sheet 1_36
+  - first:
+      213: -6747602413486685076
+    second: VV Tutorial Vine Game Over-Sheet 1_37
+  - first:
+      213: 4284845849854560935
+    second: VV Tutorial Vine Game Over-Sheet 1_38
+  - first:
+      213: -5823296909030977754
+    second: VV Tutorial Vine Game Over-Sheet 1_39
+  - first:
+      213: -8938079388738618219
+    second: VV Tutorial Vine Game Over-Sheet 1_40
+  - first:
+      213: -7332376920550477222
+    second: VV Tutorial Vine Game Over-Sheet 1_41
+  - first:
+      213: 965324043595577213
+    second: VV Tutorial Vine Game Over-Sheet 1_42
+  - first:
+      213: -660899980490002623
+    second: VV Tutorial Vine Game Over-Sheet 1_43
+  - first:
+      213: 604298037904918074
+    second: VV Tutorial Vine Game Over-Sheet 1_44
+  - first:
+      213: -2209057980390105978
+    second: VV Tutorial Vine Game Over-Sheet 1_45
+  - first:
+      213: 3853679047025322585
+    second: VV Tutorial Vine Game Over-Sheet 1_46
+  - first:
+      213: 7012520712084785511
+    second: VV Tutorial Vine Game Over-Sheet 1_47
+  - first:
+      213: -6120371406884758186
+    second: VV Tutorial Vine Game Over-Sheet 1_48
+  - first:
+      213: -484952381924424749
+    second: VV Tutorial Vine Game Over-Sheet 1_49
+  - first:
+      213: 3425842893287191764
+    second: VV Tutorial Vine Game Over-Sheet 1_50
+  - first:
+      213: -4521901930236464056
+    second: VV Tutorial Vine Game Over-Sheet 1_51
+  - first:
+      213: 2694116002407852235
+    second: VV Tutorial Vine Game Over-Sheet 1_52
+  - first:
+      213: 2450597241841103137
+    second: VV Tutorial Vine Game Over-Sheet 1_53
+  - first:
+      213: 3403922843258508615
+    second: VV Tutorial Vine Game Over-Sheet 1_54
+  - first:
+      213: -5528376584187979557
+    second: VV Tutorial Vine Game Over-Sheet 1_55
+  - first:
+      213: -1234095812187533409
+    second: VV Tutorial Vine Game Over-Sheet 1_56
+  - first:
+      213: 4130949850412922785
+    second: VV Tutorial Vine Game Over-Sheet 1_57
+  - first:
+      213: 3173904007726760727
+    second: VV Tutorial Vine Game Over-Sheet 1_58
+  - first:
+      213: -5303108182004876420
+    second: VV Tutorial Vine Game Over-Sheet 1_59
+  - first:
+      213: -7724356792373657404
+    second: VV Tutorial Vine Game Over-Sheet 1_60
+  - first:
+      213: -477893056216279992
+    second: VV Tutorial Vine Game Over-Sheet 1_61
+  - first:
+      213: -271208353446926175
+    second: VV Tutorial Vine Game Over-Sheet 1_62
+  - first:
+      213: -7483120002286165772
+    second: VV Tutorial Vine Game Over-Sheet 1_63
+  - first:
+      213: -1133595505270760284
+    second: VV Tutorial Vine Game Over-Sheet 1_64
+  - first:
+      213: 1863533222546411475
+    second: VV Tutorial Vine Game Over-Sheet 1_65
+  - first:
+      213: 4593711736206447547
+    second: VV Tutorial Vine Game Over-Sheet 1_66
+  - first:
+      213: -5265957048868442597
+    second: VV Tutorial Vine Game Over-Sheet 1_67
+  - first:
+      213: -7909641150291492061
+    second: VV Tutorial Vine Game Over-Sheet 1_68
+  - first:
+      213: -8642602104308069038
+    second: VV Tutorial Vine Game Over-Sheet 1_69
+  - first:
+      213: -6569078132785293501
+    second: VV Tutorial Vine Game Over-Sheet 1_70
+  - first:
+      213: 7128007776452013637
+    second: VV Tutorial Vine Game Over-Sheet 1_71
+  - first:
+      213: -8800277188304262144
+    second: VV Tutorial Vine Game Over-Sheet 1_72
+  - first:
+      213: 7717494555329011406
+    second: VV Tutorial Vine Game Over-Sheet 1_73
+  - first:
+      213: -7878982015636415935
+    second: VV Tutorial Vine Game Over-Sheet 1_74
+  - first:
+      213: -3486739330386593122
+    second: VV Tutorial Vine Game Over-Sheet 1_75
+  - first:
+      213: -109859657725265605
+    second: VV Tutorial Vine Game Over-Sheet 1_76
+  - first:
+      213: 4750077635803798757
+    second: VV Tutorial Vine Game Over-Sheet 1_77
+  - first:
+      213: 79394498128017594
+    second: VV Tutorial Vine Game Over-Sheet 1_78
+  - first:
+      213: 9039598209035285245
+    second: VV Tutorial Vine Game Over-Sheet 1_79
+  - first:
+      213: 626766542251032566
+    second: VV Tutorial Vine Game Over-Sheet 1_80
+  - first:
+      213: 2421314849444465064
+    second: VV Tutorial Vine Game Over-Sheet 1_81
+  - first:
+      213: -3569173524459945375
+    second: VV Tutorial Vine Game Over-Sheet 1_82
+  - first:
+      213: -7369152948121776227
+    second: VV Tutorial Vine Game Over-Sheet 1_83
+  - first:
+      213: 7060107562906913030
+    second: VV Tutorial Vine Game Over-Sheet 1_84
+  - first:
+      213: 5802370461968958928
+    second: VV Tutorial Vine Game Over-Sheet 1_85
+  - first:
+      213: -3329765462106394272
+    second: VV Tutorial Vine Game Over-Sheet 1_86
+  - first:
+      213: -3976252338820598404
+    second: VV Tutorial Vine Game Over-Sheet 1_87
+  - first:
+      213: 3354072107776469915
+    second: VV Tutorial Vine Game Over-Sheet 1_88
+  - first:
+      213: -541395421636125227
+    second: VV Tutorial Vine Game Over-Sheet 1_89
+  - first:
+      213: 7425552956559988539
+    second: VV Tutorial Vine Game Over-Sheet 1_90
+  - first:
+      213: 2788922548529444100
+    second: VV Tutorial Vine Game Over-Sheet 1_91
+  - first:
+      213: -7937638667410096145
+    second: VV Tutorial Vine Game Over-Sheet 1_92
+  - first:
+      213: -183933019115391674
+    second: VV Tutorial Vine Game Over-Sheet 1_93
+  - first:
+      213: 8584186739204203499
+    second: VV Tutorial Vine Game Over-Sheet 1_94
+  - first:
+      213: -2194947414296960853
+    second: VV Tutorial Vine Game Over-Sheet 1_95
+  - first:
+      213: 9069854854818423769
+    second: VV Tutorial Vine Game Over-Sheet 1_96
+  - first:
+      213: -7321751742190619713
+    second: VV Tutorial Vine Game Over-Sheet 1_97
+  - first:
+      213: 3861753536794200694
+    second: VV Tutorial Vine Game Over-Sheet 1_98
+  - first:
+      213: -3645218082935685414
+    second: VV Tutorial Vine Game Over-Sheet 1_99
+  - first:
+      213: 8210376466553367977
+    second: VV Tutorial Vine Game Over-Sheet 1_100
+  - first:
+      213: 2174035729244098334
+    second: VV Tutorial Vine Game Over-Sheet 1_101
+  - first:
+      213: -8933720576124852432
+    second: VV Tutorial Vine Game Over-Sheet 1_102
+  - first:
+      213: -4847199147310150126
+    second: VV Tutorial Vine Game Over-Sheet 1_103
+  - first:
+      213: -3496998344811693408
+    second: VV Tutorial Vine Game Over-Sheet 1_104
+  - first:
+      213: -5128870796996803485
+    second: VV Tutorial Vine Game Over-Sheet 1_105
+  - first:
+      213: -2031162688235797685
+    second: VV Tutorial Vine Game Over-Sheet 1_106
+  - first:
+      213: -4657159442692294953
+    second: VV Tutorial Vine Game Over-Sheet 1_107
+  - first:
+      213: -8073725006896445377
+    second: VV Tutorial Vine Game Over-Sheet 1_108
+  - first:
+      213: 4071889472107851218
+    second: VV Tutorial Vine Game Over-Sheet 1_109
+  - first:
+      213: -3329448201407261855
+    second: VV Tutorial Vine Game Over-Sheet 1_110
+  - first:
+      213: -3378962552028800791
+    second: VV Tutorial Vine Game Over-Sheet 1_111
+  - first:
+      213: -8520101951650727548
+    second: VV Tutorial Vine Game Over-Sheet 1_112
+  - first:
+      213: -6189723562100956283
+    second: VV Tutorial Vine Game Over-Sheet 1_113
+  - first:
+      213: -5767226030108690380
+    second: VV Tutorial Vine Game Over-Sheet 1_114
+  - first:
+      213: -5256084187877355672
+    second: VV Tutorial Vine Game Over-Sheet 1_115
+  - first:
+      213: 2530143243043911608
+    second: VV Tutorial Vine Game Over-Sheet 1_116
+  - first:
+      213: -487728517512549209
+    second: VV Tutorial Vine Game Over-Sheet 1_117
+  - first:
+      213: 4565883522468004352
+    second: VV Tutorial Vine Game Over-Sheet 1_118
+  - first:
+      213: 3633358897527325380
+    second: VV Tutorial Vine Game Over-Sheet 1_119
+  - first:
+      213: 3965481878282164455
+    second: VV Tutorial Vine Game Over-Sheet 1_120
+  - first:
+      213: -9187862262127326139
+    second: VV Tutorial Vine Game Over-Sheet 1_121
+  - first:
+      213: -4027414311222119632
+    second: VV Tutorial Vine Game Over-Sheet 1_122
+  - first:
+      213: -2996204631480217343
+    second: VV Tutorial Vine Game Over-Sheet 1_123
+  - first:
+      213: 5551631157129884348
+    second: VV Tutorial Vine Game Over-Sheet 1_124
+  - first:
+      213: 5421008352929005772
+    second: VV Tutorial Vine Game Over-Sheet 1_125
+  - first:
+      213: 3375699320077685873
+    second: VV Tutorial Vine Game Over-Sheet 1_126
+  - first:
+      213: 1430326764582866864
+    second: VV Tutorial Vine Game Over-Sheet 1_127
+  - first:
+      213: -1824809117720874333
+    second: VV Tutorial Vine Game Over-Sheet 1_128
+  - first:
+      213: -1131143278538894650
+    second: VV Tutorial Vine Game Over-Sheet 1_129
+  - first:
+      213: 7712145921867087563
+    second: VV Tutorial Vine Game Over-Sheet 1_130
+  - first:
+      213: -6599213743035508794
+    second: VV Tutorial Vine Game Over-Sheet 1_131
+  - first:
+      213: 6787174491526717052
+    second: VV Tutorial Vine Game Over-Sheet 1_132
+  - first:
+      213: -1199896337625601477
+    second: VV Tutorial Vine Game Over-Sheet 1_133
+  - first:
+      213: -5061294569162282889
+    second: VV Tutorial Vine Game Over-Sheet 1_134
+  - first:
+      213: -2595328264215913730
+    second: VV Tutorial Vine Game Over-Sheet 1_135
+  - first:
+      213: 5151968859565809822
+    second: VV Tutorial Vine Game Over-Sheet 1_136
+  - first:
+      213: 7387993649209287615
+    second: VV Tutorial Vine Game Over-Sheet 1_137
+  - first:
+      213: 4860272349370036757
+    second: VV Tutorial Vine Game Over-Sheet 1_138
+  - first:
+      213: -3708540865616324219
+    second: VV Tutorial Vine Game Over-Sheet 1_139
+  - first:
+      213: -1900285889560672215
+    second: VV Tutorial Vine Game Over-Sheet 1_140
+  - first:
+      213: -631099747578939496
+    second: VV Tutorial Vine Game Over-Sheet 1_141
+  - first:
+      213: 1451013233776551966
+    second: VV Tutorial Vine Game Over-Sheet 1_142
+  - first:
+      213: -7462089811435350531
+    second: VV Tutorial Vine Game Over-Sheet 1_143
+  - first:
+      213: -3899376530376134568
+    second: VV Tutorial Vine Game Over-Sheet 1_144
+  - first:
+      213: 8789935299556910288
+    second: VV Tutorial Vine Game Over-Sheet 1_145
+  - first:
+      213: -4061861893662881454
+    second: VV Tutorial Vine Game Over-Sheet 1_146
+  - first:
+      213: 765708852882249109
+    second: VV Tutorial Vine Game Over-Sheet 1_147
+  - first:
+      213: -6990152745621831202
+    second: VV Tutorial Vine Game Over-Sheet 1_148
+  - first:
+      213: -3163954047324207590
+    second: VV Tutorial Vine Game Over-Sheet 1_149
+  - first:
+      213: 6148176477733820782
+    second: VV Tutorial Vine Game Over-Sheet 1_150
+  - first:
+      213: 1997218184524514922
+    second: VV Tutorial Vine Game Over-Sheet 1_151
+  - first:
+      213: -8765732993965350913
+    second: VV Tutorial Vine Game Over-Sheet 1_152
+  - first:
+      213: 998344439756081030
+    second: VV Tutorial Vine Game Over-Sheet 1_153
+  - first:
+      213: 1713611275194548500
+    second: VV Tutorial Vine Game Over-Sheet 1_154
+  - first:
+      213: -3089927421169858216
+    second: VV Tutorial Vine Game Over-Sheet 1_155
+  - first:
+      213: 6220567535203439803
+    second: VV Tutorial Vine Game Over-Sheet 1_156
+  - first:
+      213: 2289668889921585600
+    second: VV Tutorial Vine Game Over-Sheet 1_157
+  - first:
+      213: -8479948858914002839
+    second: VV Tutorial Vine Game Over-Sheet 1_158
+  - first:
+      213: -4129167966360648686
+    second: VV Tutorial Vine Game Over-Sheet 1_159
+  - first:
+      213: 7029731539769687353
+    second: VV Tutorial Vine Game Over-Sheet 1_160
+  - first:
+      213: -1527227328073144755
+    second: VV Tutorial Vine Game Over-Sheet 1_161
+  - first:
+      213: 5171273186013540259
+    second: VV Tutorial Vine Game Over-Sheet 1_162
+  - first:
+      213: 4967235656365307967
+    second: VV Tutorial Vine Game Over-Sheet 1_163
+  - first:
+      213: -2961973219338312786
+    second: VV Tutorial Vine Game Over-Sheet 1_164
+  - first:
+      213: 6462438031038201405
+    second: VV Tutorial Vine Game Over-Sheet 1_165
+  - first:
+      213: 7932916468203058766
+    second: VV Tutorial Vine Game Over-Sheet 1_166
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612e231497c985150800000000000000
+      internalID: 5861606959621530134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2304
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37700d9bcb75cb5d0800000000000000
+      internalID: -3045462779926411405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2304
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc774c342a2830e90800000000000000
+      internalID: -7060656157353543732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2304
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9123d72614a996ba0800000000000000
+      internalID: -6095171015053331943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2304
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6caab9decbb62a40800000000000000
+      internalID: 5343164505012218986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2304
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c7a8bc3199258b0800000000000000
+      internalID: -5164897512342258611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2304
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2517fe6db70b4e0800000000000000
+      internalID: -1967936874090507544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2304
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7be35da8bb700210800000000000000
+      internalID: 1297172725794859901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2304
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9ef59b0d9abaaa0800000000000000
+      internalID: -6148634152315917829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2304
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3c976aee6d61310800000000000000
+      internalID: 1375523056691823554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2304
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f46fa46016702460800000000000000
+      internalID: 7214896415828305142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2304
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238a98b4374a05bb0800000000000000
+      internalID: -4949275175384668110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2304
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d33a6badf20c7140800000000000000
+      internalID: 4718649798103282644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caee11b393ca6a200800000000000000
+      internalID: 191029396013969068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2112
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2844a030b54bd40800000000000000
+      internalID: 5599200305343660728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2112
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d7bc4ad6138c540800000000000000
+      internalID: 5028323330945154453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2112
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da585299c57e7fb0800000000000000
+      internalID: -4648148256795632942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2112
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faad4af2dc70e9750800000000000000
+      internalID: 6313492305469037231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2112
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ac7867da7aa3a80800000000000000
+      internalID: -8486286184366486933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2112
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa98acbbf9b0def40800000000000000
+      internalID: 5759272279155050922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2112
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643c61148951cd8e0800000000000000
+      internalID: -1667434018362703034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2112
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa7d221af394e400800000000000000
+      internalID: 352569373097818871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2112
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661f1ad964abc21b0800000000000000
+      internalID: -5679960217565925018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_23
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2112
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6575415313b8c10800000000000000
+      internalID: 2056791758869059247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_24
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2112
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3a4b1950322ae20800000000000000
+      internalID: 3360286778798154733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_25
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2112
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bdb72af9e34c3e0800000000000000
+      internalID: -2034432276317873346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2b17cc7c3181660800000000000000
+      internalID: 7356651740159128224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1920
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eab737117910d400800000000000000
+      internalID: 346805144819055337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1920
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdcfabaef6fd7610800000000000000
+      internalID: 1620723014585798143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1920
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ea17146f1bac750800000000000000
+      internalID: 6326064297813323370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1920
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459a82407339ba1e0800000000000000
+      internalID: -2185491329655985836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_31
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1920
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5753cb14f3b9b1a20800000000000000
+      internalID: 3034189469952259445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_32
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1920
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a17792910fde70f0800000000000000
+      internalID: -1117210459693944409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_33
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1920
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3800d7e2c5cb3fe10800000000000000
+      internalID: 2230333344581484675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1920
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c4295f719701d90800000000000000
+      internalID: -7129065066316280688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_35
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1920
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca1a7ee27db72090800000000000000
+      internalID: -8059264706831312181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_36
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1920
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e505084afa16210800000000000000
+      internalID: 1324532886485884525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_37
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1920
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64ce82fa53bb52a0800000000000000
+      internalID: -6747602413486685076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1920
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa43ed2994d67b30800000000000000
+      internalID: 4284845849854560935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f049b705e7f2fa0800000000000000
+      internalID: -5823296909030977754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1728
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c7ef3e62095f380800000000000000
+      internalID: -8938079388738618219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1728
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52f0531a0a2e3a90800000000000000
+      internalID: -7332376920550477222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1728
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7778a76a15856d00800000000000000
+      internalID: 965324043595577213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1728
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fa4d628f204d6f0800000000000000
+      internalID: -660899980490002623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1728
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36c9cf1dd5e26800800000000000000
+      internalID: 604298037904918074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_45
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1728
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c1b9e8879d751e0800000000000000
+      internalID: -2209057980390105978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_46
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1728
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a6f44fca40b7530800000000000000
+      internalID: 3853679047025322585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_47
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1728
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76902e70f6a715160800000000000000
+      internalID: 7012520712084785511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_48
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1728
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d1d2fe1a2101ba0800000000000000
+      internalID: -6120371406884758186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_49
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1728
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d34a66c06a1549f0800000000000000
+      internalID: -484952381924424749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_50
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1728
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4fda6e5f90b8f20800000000000000
+      internalID: 3425842893287191764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_51
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1728
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8443a1b072afe31c0800000000000000
+      internalID: -4521901930236464056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8273bea3c636520800000000000000
+      internalID: 2694116002407852235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1536
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121bd772535420220800000000000000
+      internalID: 2450597241841103137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745d24b8ac92d3f20800000000000000
+      internalID: 3403922843258508615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd853ea89c24743b0800000000000000
+      internalID: -5528376584187979557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fc3c7b56c9fdee0800000000000000
+      internalID: -1234095812187533409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_57
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1536
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7b0d29005145930800000000000000
+      internalID: 4130949850412922785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7130eb301e8fb0c20800000000000000
+      internalID: 3173904007726760727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_59
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1536
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bb12e94339766b0800000000000000
+      internalID: -5303108182004876420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_60
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c041383c629dc490800000000000000
+      internalID: -7724356792373657404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_61
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1536
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8445a9f1cce2e59f0800000000000000
+      internalID: -477893056216279992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_62
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a86da080797c3cf0800000000000000
+      internalID: -271208353446926175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_63
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1536
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0ec14510e962890800000000000000
+      internalID: -7483120002286165772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_64
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac5b5dd4e8a440f0800000000000000
+      internalID: -1133595505270760284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df840da7999cd910800000000000000
+      internalID: 1863533222546411475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1344
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3d02d4c7420cf30800000000000000
+      internalID: 4593711736206447547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1344
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e6bbbd6ff8be6b0800000000000000
+      internalID: -5265957048868442597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3234018e74f4b3290800000000000000
+      internalID: -7909641150291492061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_69
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1344
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d8ca53d2f4f0880800000000000000
+      internalID: -8642602104308069038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_70
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1344
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347db812e32f5d4a0800000000000000
+      internalID: -6569078132785293501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_71
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1344
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ee4af8e45cbe260800000000000000
+      internalID: 7128007776452013637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_72
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1344
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ca62ae5822fd580800000000000000
+      internalID: -8800277188304262144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_73
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1344
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece9566b86c0a1b60800000000000000
+      internalID: 7717494555329011406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_74
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1344
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14adc46f99b38a290800000000000000
+      internalID: -7878982015636415935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_75
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1344
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a7ce37d0d9c9fc0800000000000000
+      internalID: -3486739330386593122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_76
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1344
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39b32e2933b97ef0800000000000000
+      internalID: -109859657725265605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_77
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1344
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecdc99517aabe140800000000000000
+      internalID: 4750077635803798757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab87a0a10e01a1100800000000000000
+      internalID: 79394498128017594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df23ec16daa137d70800000000000000
+      internalID: 9039598209035285245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fff8f379d8b2b800800000000000000
+      internalID: 626766542251032566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a90482e60d3a9120800000000000000
+      internalID: 2421314849444465064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_82
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16206dcf69fb77ec0800000000000000
+      internalID: -3569173524459945375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_83
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1152
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fcda7ef628bb990800000000000000
+      internalID: -7369152948121776227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_84
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6098d132c6a8af160800000000000000
+      internalID: 7060107562906913030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_85
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1152
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d501e06139268050800000000000000
+      internalID: 5802370461968958928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_86
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1152
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061b8cd34fb4ac1d0800000000000000
+      internalID: -3329765462106394272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_87
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1152
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75384f909381d8c0800000000000000
+      internalID: -3976252338820598404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_88
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1152
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bef07bfce0c8e20800000000000000
+      internalID: 3354072107776469915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_89
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1152
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd1b528bb39c78f0800000000000000
+      internalID: -541395421636125227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_90
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1152
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b371c9c521ddc0760800000000000000
+      internalID: 7425552956559988539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405bc23184e34b620800000000000000
+      internalID: 2788922548529444100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefbd99ffa7d7d190800000000000000
+      internalID: -7937638667410096145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_93
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6457925c4e9827df0800000000000000
+      internalID: -183933019115391674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3a2ebbb58212770800000000000000
+      internalID: 8584186739204203499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 960
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0ea2eb4faf981e0800000000000000
+      internalID: -2194947414296960853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_96
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3edc1bfe89edd70800000000000000
+      internalID: 9069854854818423769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_97
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb371213599e36a90800000000000000
+      internalID: -7321751742190619713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_98
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 960
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a0aba9164b79530800000000000000
+      internalID: 3861753536794200694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_99
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 960
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeb9cd7775996dc0800000000000000
+      internalID: -3645218082935685414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_100
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 960
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ade32955ed11f170800000000000000
+      internalID: 8210376466553367977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_101
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 960
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f0a9a2af9bb2e10800000000000000
+      internalID: 2174035729244098334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_102
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 960
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037ea79087c050480800000000000000
+      internalID: -8933720576124852432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_103
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 960
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e800d9e0a4bbcb0800000000000000
+      internalID: -4847199147310150126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aabe55888a287fc0800000000000000
+      internalID: -3496998344811693408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364812e1f2792d8b0800000000000000
+      internalID: -5128870796996803485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b438daeeb4cdfc3e0800000000000000
+      internalID: -2031162688235797685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_107
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d638fb59227e5fb0800000000000000
+      internalID: -4657159442692294953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_108
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38cfb5f1ed54ff80800000000000000
+      internalID: -8073725006896445377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_109
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd24ada6e1428830800000000000000
+      internalID: 4071889472107851218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_110
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1639e01408c6bc1d0800000000000000
+      internalID: -3329448201407261855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_111
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8d9f026738b11d0800000000000000
+      internalID: -3378962552028800791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_112
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489feb99a6482c980800000000000000
+      internalID: -8520101951650727548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_113
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5836b1ff63fa91aa0800000000000000
+      internalID: -6189723562100956283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_114
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4383cff4b72b6ffa0800000000000000
+      internalID: -5767226030108690380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_115
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fc5007743ae07b0800000000000000
+      internalID: -5256084187877355672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_116
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7bc70dfdfdc1320800000000000000
+      internalID: 2530143243043911608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac26d65f7d3b39f0800000000000000
+      internalID: -487728517512549209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002c3826fd64d5f30800000000000000
+      internalID: 4565883522468004352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_119
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c20f9cbaa84c6230800000000000000
+      internalID: 3633358897527325380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_120
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8d14e12c8380730800000000000000
+      internalID: 3965481878282164455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_121
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c0fa4b3f72e7080800000000000000
+      internalID: -9187862262127326139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_122
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033f748a500cb18c0800000000000000
+      internalID: -4027414311222119632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_123
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101dd3223c75b66d0800000000000000
+      internalID: -2996204631480217343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_124
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 576
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2b7b4af1b5b0d40800000000000000
+      internalID: 5551631157129884348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_125
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 576
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc042c0106a4b3b40800000000000000
+      internalID: 5421008352929005772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_126
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 576
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17412c975a4e8de20800000000000000
+      internalID: 3375699320077685873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_127
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 576
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf02bb3d9a89d310800000000000000
+      internalID: 1430326764582866864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_128
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 576
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a27a5396c9fca6e0800000000000000
+      internalID: -1824809117720874333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_129
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 576
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c25e946e2f5d40f0800000000000000
+      internalID: -1131143278538894650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce7dd0fadb070b60800000000000000
+      internalID: 7712145921867087563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_131
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c71e799012ea64a0800000000000000
+      internalID: -6599213743035508794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7eda047d33e03e50800000000000000
+      internalID: 6787174491526717052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_133
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3aa88463ac195fe0800000000000000
+      internalID: -1199896337625601477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_134
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778e77db76ba2c9b0800000000000000
+      internalID: -5061294569162282889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_135
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa11efb1ba8bfbd0800000000000000
+      internalID: -2595328264215913730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_136
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e906b48a1687f7740800000000000000
+      internalID: 5151968859565809822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_137
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb326f7a41d678660800000000000000
+      internalID: 7387993649209287615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_138
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512badf63f7237340800000000000000
+      internalID: 4860272349370036757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_139
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5895bed3bbd988cc0800000000000000
+      internalID: -3708540865616324219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_140
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9288c053d04d0a5e0800000000000000
+      internalID: -1900285889560672215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_141
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897f7bf8f12ed37f0800000000000000
+      internalID: -631099747578939496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_142
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1864ab29d8032410800000000000000
+      internalID: 1451013233776551966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df595533ad4517890800000000000000
+      internalID: -7462089811435350531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_144
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8507f6594b1a2e9c0800000000000000
+      internalID: -3899376530376134568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_145
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4a1c8759f1cf970800000000000000
+      internalID: 8789935299556910288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_146
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259478dd02e51a7c0800000000000000
+      internalID: -4061861893662881454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_147
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5951b61152850aa00800000000000000
+      internalID: 765708852882249109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_148
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed14d7ffc1dfdfe90800000000000000
+      internalID: -6990152745621831202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_149
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16c49bae806714d0800000000000000
+      internalID: -3163954047324207590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_150
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e699cbb9ee5b25550800000000000000
+      internalID: 6148176477733820782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_151
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 192
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66c88b6b5b87bb10800000000000000
+      internalID: 1997218184524514922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_152
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 192
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff16cae84cd95680800000000000000
+      internalID: -8765732993965350913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_153
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 192
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687c52f7af4dadd00800000000000000
+      internalID: 998344439756081030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_154
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 192
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411431d2068f7c710800000000000000
+      internalID: 1713611275194548500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_155
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 192
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8598e6fa16f5e15d0800000000000000
+      internalID: -3089927421169858216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4d02d1735e35650800000000000000
+      internalID: 6220567535203439803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_157
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c10a0569b986cf10800000000000000
+      internalID: 2289668889921585600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_158
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968a3f6017b215a80800000000000000
+      internalID: -8479948858914002839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_159
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214c623ac9f32b6c0800000000000000
+      internalID: -4129167966360648686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_160
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93df45e179f9e8160800000000000000
+      internalID: 7029731539769687353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_161
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d466ee236d23ecae0800000000000000
+      internalID: -1527227328073144755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_162
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afe6d8609d04c740800000000000000
+      internalID: 5171273186013540259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_163
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38fe4d038a2fe440800000000000000
+      internalID: 4967235656365307967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_164
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3ae1bdc05f4e6d0800000000000000
+      internalID: -2961973219338312786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_165
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eb10756213fa950800000000000000
+      internalID: 6462438031038201405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VV Tutorial Vine Game Over-Sheet 1_166
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46f6185f71671e60800000000000000
+      internalID: 7932916468203058766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

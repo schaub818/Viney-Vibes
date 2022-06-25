@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Game Piece
+  - Piece Part
+  - Grid
+  - Pickup
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2135937339
+    locked: 0
+  - name: Background Grass
+    uniqueID: 2373185875
+    locked: 0
+  - name: Grid
+    uniqueID: 2864790071
+    locked: 0
+  - name: Pickup
+    uniqueID: 1359544953
+    locked: 0
+  - name: Lattice
+    uniqueID: 968000091
+    locked: 0
+  - name: Vine
+    uniqueID: 4010822735
+    locked: 0
+  - name: Obstacle
+    uniqueID: 3429526239
+    locked: 0
+  - name: HUD
+    uniqueID: 3296685789
+    locked: 0
+  - name: Unplaced Pieces
+    uniqueID: 95546243
+    locked: 0
+  - name: UI
+    uniqueID: 2914150761
+    locked: 0
