@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿// --------------------------------------------
+// Written by Andrés Fernandez
+// with contributions from Dave Schaub
+// --------------------------------------------
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;

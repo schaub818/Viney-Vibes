@@ -1,4 +1,9 @@
-﻿using UnityEngine.Audio;
+﻿// --------------------------------------------
+// Written by Andrés Fernandez
+// with contributions from Dave Schaub
+// --------------------------------------------
+
+using UnityEngine.Audio;
 using System;
 using UnityEngine;
 using UnityEngine.UI;

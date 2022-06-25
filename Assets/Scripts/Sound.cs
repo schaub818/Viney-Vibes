@@ -1,4 +1,8 @@
-﻿using UnityEngine.Audio;
+﻿// --------------------------------------------
+// Written by Andrés Fernandez
+// --------------------------------------------
+
+using UnityEngine.Audio;
 using UnityEngine;
 
 namespace VineyVibes

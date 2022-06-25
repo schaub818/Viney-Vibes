@@ -1,4 +1,8 @@
-﻿namespace VineyVibes
+﻿// --------------------------------------------
+// Written by Dave Schaub
+// --------------------------------------------
+
+namespace VineyVibes
 {
     public enum VineType
     {

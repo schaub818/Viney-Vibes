@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿// --------------------------------------------
+// Written by Andrés Fernandez
+// with contributions from Dave Schaub
+// --------------------------------------------
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -9,7 +14,7 @@ namespace VineyVibes
     {
         // The number of pieces to add to the queue
         public int numberToAdd;
-        
+
         // Adds pieces to the player's queue and destroys the pickup
         public override void Collect()
         {

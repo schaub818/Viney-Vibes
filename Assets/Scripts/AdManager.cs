@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿// --------------------------------------------
+// Written by Dave Schaub
+// with contributions from Andrés Fernandez
+// --------------------------------------------
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Advertisements;

@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿// --------------------------------------------
+// Written by Dave Schaub
+// --------------------------------------------
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

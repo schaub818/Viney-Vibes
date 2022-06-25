@@ -1,4 +1,8 @@
-﻿using UnityEngine;
+﻿// --------------------------------------------
+// Written by Unity forums user Romejanic
+// --------------------------------------------
+
+using UnityEngine;
 using UnityEditor;
 using System.Collections;
 
