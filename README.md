@@ -15,4 +15,4 @@ Programmer, Game Designer
 Jesús Vila Jiménez\
 Marketer, Researcher
 
-This repo has been copied from Viney Vibes' private repo so that it can be included in team members' portfolio.
+This repo has been copied from Viney Vibes' private repo so that it can be included in team members' portfolios.
